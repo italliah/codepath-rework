@@ -1,0 +1,16 @@
+// My favorite 3 apps and 2 features of each
+
+SSENSE { 1. The haptic feedback you feel everytime you switch from one item to the next
+         2. The hyper-personalized, algorithim based recommendations}
+         
+Cash App { 1. The ability to transfer digital currency to crypto currency with out having to use other apps
+           2. The activity reports that display spending, stock market information, tax filing, savings, etc}
+           
+Shazam { 1. The listening feature which can analyze a song and return the name and artist of the song (if the song is available via streaming)
+         2. The ability to integrate information with other music apps so it can create playlists of the songs you search for, on Shazam, in the desired music streaming app}
+         
+
+// My Idea for an Application
+
+ I have recently been thinking about the idea of an app which can intergrate entire music libraries from streaming apps such as Apple Music, Spotify, Tidal, etc and provide information for each given song. The app would anylize each song from a given library and then return a set of information for each song including the BPM of the song, the key of the song, and other songs in the library that have the same BPM or have a relative key in conjunction to said song. This idea came to me through my journey of Dj'ing and producing music. There were many times I needed to know the BPM or key of a song I had saved in my apple music and the only way to know that information was to look it up on google (and hope to find it) or to use a software which would anylize the BPM and key of a song, which both would take unnecessary time. Most DJ softwares encorperate these features, however the big downside is that in order for the software to anylize the song you would need an mp3 download of the audio which is not given via streaming services. The goal with my idea is to cut the time needed to find the information for each song as well as give users a list of other relative songs. My app would also incorperate features which would allow you to compare and/or share library information with friends or other users so that you would be able to find new music that could be mixed with a desired song which you may not have in your library. This app could help DJ's looking for songs to mix with a specific song, help producers get the BPM and key of a song they may be trying to sample, or even help users find new music that share the same characteristics of a desired song.
+       
